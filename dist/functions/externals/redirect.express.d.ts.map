@@ -1,0 +1,1 @@
+{"version":3,"file":"redirect.express.d.ts","sourceRoot":"","sources":["../../../src/functions/externals/redirect.express.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAExC,MAAM,MAAM,KAAK,GAAG;IAClB,GAAG,EAAE,QAAQ,CAAC;IACd,aAAa,EAAE,MAAM,CAAC;CACvB,CAAC;AAEF,MAAM,CAAC,OAAO,UAAU,QAAQ,CAAC,KAAK,EAAE,KAAK,QAG5C"}
