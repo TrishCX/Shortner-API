@@ -1,1 +1,0 @@
-{"version":3,"file":"Shortener.d.ts","sourceRoot":"","sources":["../../../src/@types/interfaces/Shortener.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,UAAU;IACzB,KAAK,EAAE,MAAM,CAAC;IACd,WAAW,EAAE,MAAM,CAAC;IACpB,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,OAAO,CAAC,EAAE,MAAM,CAAC;CAClB"}
